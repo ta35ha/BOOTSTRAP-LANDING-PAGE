@@ -1,0 +1,11 @@
+
+/* ilk açıklama lanı 70px aşağıya kaydırıyor */
+body::before{
+    display: block;
+    content: "";
+    height: 70px;
+}
+
+.cicle-img{
+    width: 100%;
+}
